@@ -21,6 +21,8 @@ apt install ruby -y
 
 gem install pip
 
+git clone https://github.com/RDTUTORIAL/installer404.git
+
 cd installer404
 
 pip install -r requirements.txt
