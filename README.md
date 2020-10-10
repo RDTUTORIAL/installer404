@@ -1,2 +1,27 @@
 # installer404
 TOOL INSTALER FOR TERMUX, HAPPY TRYING🤗
+
+
+
+
+
+
+
+
+
+#HOW TO INSTALL
+
+apt install git -y
+
+apt install python -y
+
+apt install python2 -y
+
+apt install ruby -y
+
+gem install pip
+
+pip install -r requirements.txt
+
+python2 install404.py
+
