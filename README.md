@@ -21,7 +21,11 @@ apt install ruby -y
 
 gem install pip
 
+cd installer404
+
 pip install -r requirements.txt
 
 python2 install404.py
+
+
 
